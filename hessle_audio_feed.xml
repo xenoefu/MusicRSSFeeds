@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   
 
   <channel>
@@ -14,6 +14,9 @@
     <description>Latest episodes from Hessle Audio on Rinse FM.</description>
     
 
+    <atom:link href="https://xenoefu.github.io/MusicRSSFeeds/hessle_audio_feed.xml" rel="self" type="application/rss+xml"/>
+    
+
     <item>
       
 
@@ -23,7 +26,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-24-03-2025-2000/</link>
       
 
-      <pubDate>feat. Rozaly</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-24-03-2025-2000/</guid>
@@ -39,7 +42,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-17-03-2025-1800/</link>
       
 
-      <pubDate>feat. Pearson Sound</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-17-03-2025-1800/</guid>
@@ -55,7 +58,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-03-03-2025-2000/</link>
       
 
-      <pubDate>feat. Le Motel Recorded live at Horst, curated by Ben UFO</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-03-03-2025-2000/</guid>
@@ -71,7 +74,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-03-02-2025-2000/</link>
       
 
-      <pubDate>feat. Ben UFO</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-03-02-2025-2000/</guid>
@@ -87,7 +90,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-20-01-2025-2000/</link>
       
 
-      <pubDate>feat. Pearson Sound</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-20-01-2025-2000/</guid>
@@ -103,7 +106,7 @@
       <link>https://www.rinse.fm/episodes/tim-garcia-06-01-2025-1000-2-2/</link>
       
 
-      <pubDate>with Ben UFO B2B GЯEG (Recorded live at Rex, Paris)</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/tim-garcia-06-01-2025-1000-2-2/</guid>
@@ -119,7 +122,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-16-12-2024-1200/</link>
       
 
-      <pubDate>Live from Club 2 Club (Ben UFO B2B Pangaea B2B Pearson Sound)</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-16-12-2024-1200/</guid>
@@ -135,7 +138,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-19-12-2024-1330/</link>
       
 
-      <pubDate>with Jasmín</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-19-12-2024-1330/</guid>
@@ -151,7 +154,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-19-12-2024-1430/</link>
       
 
-      <pubDate>with Significant Other (Recorded Live at Nowadays)</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-19-12-2024-1430/</guid>
@@ -167,7 +170,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-19-12-2024-1530/</link>
       
 
-      <pubDate>with Pangaea</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-19-12-2024-1530/</guid>
@@ -183,7 +186,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-19-12-2024-1630/</link>
       
 
-      <pubDate>with Josi Devil</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-19-12-2024-1630/</guid>
@@ -199,7 +202,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-19-12-2024-1730/</link>
       
 
-      <pubDate>Ben UFO B2B Pearson Sound</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-19-12-2024-1730/</guid>
@@ -215,7 +218,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-02-12-2024-2000/</link>
       
 
-      <pubDate>feat. Ben UFO &amp; Hassan Abou Alam</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-02-12-2024-2000/</guid>
@@ -231,7 +234,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-18-11-2024-2000/</link>
       
 
-      <pubDate>feat. Pearson Sound &amp; Peach</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-18-11-2024-2000/</guid>
@@ -247,7 +250,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-04-11-2024-2000/</link>
       
 
-      <pubDate>feat. Ben UFO (Live From 10 Years of Sinai Soundsystem at Trinity Centre)</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-04-11-2024-2000/</guid>
@@ -263,7 +266,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-21-10-2024-2000/</link>
       
 
-      <pubDate>feat. Pearson Sound</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-21-10-2024-2000/</guid>
@@ -279,7 +282,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-23-09-2024-2000/</link>
       
 
-      <pubDate>feat. Ben UFO - Recorded at Sustain Release Year 9</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-23-09-2024-2000/</guid>
@@ -295,7 +298,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-16-09-2024-2000/</link>
       
 
-      <pubDate>feat. Pearson Sound and Loris</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-16-09-2024-2000/</guid>
@@ -311,7 +314,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-02-09-2024-2000/</link>
       
 
-      <pubDate>with Earth Dog feat. feat Jek and DJ Fix</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-02-09-2024-2000/</guid>
@@ -327,7 +330,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-19-08-2024-1900/</link>
       
 
-      <pubDate>feat. Pearson Sound</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-19-08-2024-1900/</guid>
@@ -343,7 +346,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-05-08-2024-2000/</link>
       
 
-      <pubDate>feat. Ben UFO with Harba</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-05-08-2024-2000/</guid>
@@ -359,7 +362,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-22-07-2024-2000/</link>
       
 
-      <pubDate>feat. Ben UFO (recorded live at Open Ground)</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-22-07-2024-2000/</guid>
@@ -375,7 +378,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-01-07-2024-2000/</link>
       
 
-      <pubDate>feat. Ben UFO and Ben Kaczor</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-01-07-2024-2000/</guid>
@@ -391,7 +394,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-17-06-2024-2000/</link>
       
 
-      <pubDate>feat. Pearson Sound</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-17-06-2024-2000/</guid>
@@ -407,7 +410,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-03-06-2024-2000/</link>
       
 
-      <pubDate>feat. Ben UFO</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-03-06-2024-2000/</guid>
@@ -423,7 +426,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-20-05-2024-2000-2/</link>
       
 
-      <pubDate>feat. Pearson Sound</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-20-05-2024-2000-2/</guid>
@@ -439,7 +442,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-06-05-2024-2000/</link>
       
 
-      <pubDate>feat. Phuong-Dan &amp; tobha</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-06-05-2024-2000/</guid>
@@ -455,7 +458,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-22-04-2024-2000/</link>
       
 
-      <pubDate>feat. Ben UFO &amp; Leonce</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-22-04-2024-2000/</guid>
@@ -471,7 +474,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-15-04-2024-2000/</link>
       
 
-      <pubDate>feat. Pearson Sound</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-15-04-2024-2000/</guid>
@@ -487,7 +490,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-01-04-2024-2000/</link>
       
 
-      <pubDate>feat. Ben UFO</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-01-04-2024-2000/</guid>
@@ -503,7 +506,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-18-03-2024-2000/</link>
       
 
-      <pubDate>feat. Pearson Sound</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-18-03-2024-2000/</guid>
@@ -519,7 +522,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-04-03-2024-2000/</link>
       
 
-      <pubDate>Ben UFO, RHR and Leod</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-04-03-2024-2000/</guid>
@@ -535,7 +538,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-19-02-2024-2000/</link>
       
 
-      <pubDate>feat. Pearson Sound</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-19-02-2024-2000/</guid>
@@ -551,7 +554,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-05-02-2024-2000/</link>
       
 
-      <pubDate>feat. Ben UFO &amp; mad miran</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-05-02-2024-2000/</guid>
@@ -567,7 +570,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-22-01-2024-2000/</link>
       
 
-      <pubDate>feat. Ben UFO</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-22-01-2024-2000/</guid>
@@ -583,7 +586,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-15-01-2024-2000/</link>
       
 
-      <pubDate>feat. Pearson Sound</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-15-01-2024-2000/</guid>
@@ -599,7 +602,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-01-01-2024-2000/</link>
       
 
-      <pubDate>feat. Ben UFO &amp; Dayzero</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-01-01-2024-2000/</guid>
@@ -615,7 +618,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-20-11-2023-2000/</link>
       
 
-      <pubDate>feat. Pearson Sound</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-20-11-2023-2000/</guid>
@@ -631,7 +634,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-06-11-2023-2000/</link>
       
 
-      <pubDate>feat. GЯEG</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-06-11-2023-2000/</guid>
@@ -647,7 +650,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-16-10-2023-2000/</link>
       
 
-      <pubDate>feat. Pearson Sound</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-16-10-2023-2000/</guid>
@@ -663,7 +666,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-02-10-2023-2000/</link>
       
 
-      <pubDate>feat. Ben UFO</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-02-10-2023-2000/</guid>
@@ -679,7 +682,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-18-09-2023-2000/</link>
       
 
-      <pubDate>feat. Nick León</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-18-09-2023-2000/</guid>
@@ -695,7 +698,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-04-09-2023-2000/</link>
       
 
-      <pubDate>feat. Ben UFO (recorded live at Nachtiville 2023)</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-04-09-2023-2000/</guid>
@@ -711,7 +714,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-21-08-2023-2000/</link>
       
 
-      <pubDate>feat. Ben UFO &amp; Pearson Sound</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-21-08-2023-2000/</guid>
@@ -727,7 +730,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-21-08-2023-2000-2/</link>
       
 
-      <pubDate>feat. Ben UFO &amp; Pearson Sound</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-21-08-2023-2000-2/</guid>
@@ -743,7 +746,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-07-08-2023-2000/</link>
       
 
-      <pubDate>feat. Ben UFO &amp; Ian Kim Judd</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-07-08-2023-2000/</guid>
@@ -759,7 +762,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-24-07-2023-2000-2/</link>
       
 
-      <pubDate>feat. Ben UFO</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-24-07-2023-2000-2/</guid>
@@ -775,7 +778,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-17-07-2023-2000/</link>
       
 
-      <pubDate>feat. Olof Dreijer (recorded live from Pumping Velvet)</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-17-07-2023-2000/</guid>
@@ -791,7 +794,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-03-07-2023-2000-2/</link>
       
 
-      <pubDate>feat. Ben UFO &amp; livwutang</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-03-07-2023-2000-2/</guid>
@@ -807,7 +810,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-19-06-2023-2000/</link>
       
 
-      <pubDate>feat. Pearson Sound</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-19-06-2023-2000/</guid>
@@ -823,7 +826,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-05-06-2023-2000/</link>
       
 
-      <pubDate>feat. Ben UFO live from Pitch</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-05-06-2023-2000/</guid>
@@ -839,7 +842,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-22-05-2023-2000-2/</link>
       
 
-      <pubDate>with Will Hofbauer</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-22-05-2023-2000-2/</guid>
@@ -855,7 +858,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-15-05-2023-2000/</link>
       
 
-      <pubDate>feat. Pearson Sound</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-15-05-2023-2000/</guid>
@@ -871,7 +874,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-01-05-2023-2000/</link>
       
 
-      <pubDate>feat. Ben UFO &amp; Sunju Hargun</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-01-05-2023-2000/</guid>
@@ -887,7 +890,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-17-04-2023-2000/</link>
       
 
-      <pubDate>feat. Peverelist &amp; Daisy Moon</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-17-04-2023-2000/</guid>
@@ -903,7 +906,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-03-04-2023-2000/</link>
       
 
-      <pubDate>feat. Ben UFO</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-03-04-2023-2000/</guid>
@@ -919,7 +922,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-20-03-2023-2000/</link>
       
 
-      <pubDate>feat. Pearson Sound</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-20-03-2023-2000/</guid>
@@ -935,7 +938,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-06-03-2023-2000/</link>
       
 
-      <pubDate>feat. Ben UFO &amp; Deep Creep</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-06-03-2023-2000/</guid>
@@ -951,7 +954,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-20-02-2023-2000/</link>
       
 
-      <pubDate>feat. Pearson Sound</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-20-02-2023-2000/</guid>
@@ -967,7 +970,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-06-02-2023-2000-2/</link>
       
 
-      <pubDate>feat. Ben UFO with Klon Dump &amp; 2_button</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-06-02-2023-2000-2/</guid>
@@ -983,7 +986,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-23-01-2023-2000/</link>
       
 
-      <pubDate>feat. Ben UFO</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-23-01-2023-2000/</guid>
@@ -999,7 +1002,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-16-01-2023-2000/</link>
       
 
-      <pubDate>with TraTraTrax Sound Sistema &amp; Pearson Sound</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-16-01-2023-2000/</guid>
@@ -1015,7 +1018,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-02-01-2023-2000/</link>
       
 
-      <pubDate>feat. Ben UFO &amp; Maria Teriaeva</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-02-01-2023-2000/</guid>
@@ -1031,7 +1034,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-19-12-2022-2000/</link>
       
 
-      <pubDate>feat. Pearson Sound</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-19-12-2022-2000/</guid>
@@ -1047,7 +1050,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-05-12-2022-2000/</link>
       
 
-      <pubDate>with Ben UFO feat. Toumba &amp; Stefan Goldmann</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-05-12-2022-2000/</guid>
@@ -1063,7 +1066,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-21-11-2022-2000-2/</link>
       
 
-      <pubDate>feat. Pearson Sound</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-21-11-2022-2000-2/</guid>
@@ -1079,7 +1082,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-07-11-2022-2000/</link>
       
 
-      <pubDate>feat. Ben UFO</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-07-11-2022-2000/</guid>
@@ -1095,7 +1098,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-24-10-2022-2000/</link>
       
 
-      <pubDate>feat. Ben UFO live at Hot Mass (Oct '22)</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-24-10-2022-2000/</guid>
@@ -1111,7 +1114,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-17-10-2022-2000/</link>
       
 
-      <pubDate>feat. Pearson Sound &amp; Shanti Celeste</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-17-10-2022-2000/</guid>
@@ -1127,7 +1130,7 @@
       <link>https://www.rinse.fm/episodes/03-10-2022-2000/</link>
       
 
-      <pubDate>feat. Ben UFO</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/03-10-2022-2000/</guid>
@@ -1143,7 +1146,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-19-09-2022-2000/</link>
       
 
-      <pubDate>feat. Pearson Sound</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-19-09-2022-2000/</guid>
@@ -1159,7 +1162,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-05-09-2022-2000/</link>
       
 
-      <pubDate>feat. Ben UFO with Nick Kagame</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-05-09-2022-2000/</guid>
@@ -1175,7 +1178,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-18-07-2022-2000/</link>
       
 
-      <pubDate>feat. Pearson Sound</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-18-07-2022-2000/</guid>
@@ -1191,7 +1194,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-20-06-2022-2000/</link>
       
 
-      <pubDate>feat. Pearson Sound with INVT</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-20-06-2022-2000/</guid>
@@ -1207,7 +1210,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-06-06-2022-2000/</link>
       
 
-      <pubDate>feat. Ben UFO</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-06-06-2022-2000/</guid>
@@ -1223,7 +1226,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-23-05-2022-2000/</link>
       
 
-      <pubDate>feat. Perko</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-23-05-2022-2000/</guid>
@@ -1239,7 +1242,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-16-05-2022-2000/</link>
       
 
-      <pubDate>feat. Pearson Sound</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-16-05-2022-2000/</guid>
@@ -1255,7 +1258,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-02-05-2022-2000/</link>
       
 
-      <pubDate>feat. Ben UFO, Pearson Sound &amp; Pangaea</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-02-05-2022-2000/</guid>
@@ -1271,7 +1274,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-18-04-2022-2000/</link>
       
 
-      <pubDate>feat. Ben UFO</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-18-04-2022-2000/</guid>
@@ -1287,7 +1290,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-11-04-2022-2000/</link>
       
 
-      <pubDate>feat. Ben UFO &amp; Four Tet</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-11-04-2022-2000/</guid>
@@ -1303,7 +1306,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-21-03-2022-2000/</link>
       
 
-      <pubDate>feat. Ploy</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-21-03-2022-2000/</guid>
@@ -1319,7 +1322,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-07-03-2022-2000/</link>
       
 
-      <pubDate>feat Ben UFO with Objekt recorded at Club Night Club, NYC</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-07-03-2022-2000/</guid>
@@ -1335,7 +1338,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-07-12-2020-2300/</link>
       
 
-      <pubDate>feat. Ben UFO with Tim Reaper &amp; Dwarde</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-07-12-2020-2300/</guid>
@@ -1351,7 +1354,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-24-12-2018-1418/</link>
       
 
-      <pubDate>Ben UFO (Live from Unsound Festival)</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-24-12-2018-1418/</guid>
@@ -1367,7 +1370,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-22-10-2018-2100/</link>
       
 
-      <pubDate>feat. DJ Stingray recorded live at XOYO</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-22-10-2018-2100/</guid>
@@ -1383,7 +1386,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-01-03-2018-2300/</link>
       
 
-      <pubDate>with Ben UFO &amp; Overmono</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-01-03-2018-2300/</guid>
@@ -1399,7 +1402,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-08-02-2018-2300/</link>
       
 
-      <pubDate>with Ben UFO &amp; Ciel</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-08-02-2018-2300/</guid>
@@ -1415,7 +1418,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-04-01-2018-2300/</link>
       
 
-      <pubDate>with Ben UFO (Live Recording from Lost Village 2017)</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-04-01-2018-2300/</guid>
@@ -1431,7 +1434,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-02-08-2017-2300/</link>
       
 
-      <pubDate>with Ben UFO, Martyn &amp; Andy Mac</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-02-08-2017-2300/</guid>
@@ -1447,7 +1450,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-14-05-2015-2300/</link>
       
 
-      <pubDate>with Call Super</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-14-05-2015-2300/</guid>
@@ -1463,7 +1466,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-23-06-2016-2300/</link>
       
 
-      <pubDate>with Ben UFO &amp; Hieroglyphic Being</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-23-06-2016-2300/</guid>
@@ -1479,7 +1482,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-24-03-2016-2300/</link>
       
 
-      <pubDate>with Ben UFO &amp; Job Jobse</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-24-03-2016-2300/</guid>
@@ -1495,7 +1498,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-14-01-2016-2300/</link>
       
 
-      <pubDate>with Pariah</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-14-01-2016-2300/</guid>
@@ -1511,7 +1514,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-24-12-2015-2300/</link>
       
 
-      <pubDate>Xmas Special feat. Ben UFO, Pearson Sound, Pangaea, Four Tet, Caribou &amp; Joy Orbison</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-24-12-2015-2300/</guid>
@@ -1527,7 +1530,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-09-07-2015-2300/</link>
       
 
-      <pubDate>with Pearson Sound &amp; Josey Rebelle</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-09-07-2015-2300/</guid>
@@ -1543,7 +1546,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-14-05-2015-2300-2/</link>
       
 
-      <pubDate>with Call Super</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-14-05-2015-2300-2/</guid>
@@ -1559,7 +1562,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-16-04-2015-2300/</link>
       
 
-      <pubDate>with Will Bankhead &amp; Low Jack</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-16-04-2015-2300/</guid>
@@ -1575,7 +1578,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-12-02-2015-2300/</link>
       
 
-      <pubDate>with Jane Fitz</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-12-02-2015-2300/</guid>
@@ -1591,7 +1594,7 @@
       <link>https://www.rinse.fm/episodes/hessle-audio-15-12-2011-2300/</link>
       
 
-      <pubDate>with Ben UFO B2B Paul Woolford</pubDate>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 GMT</pubDate>
       
 
       <guid>https://www.rinse.fm/episodes/hessle-audio-15-12-2011-2300/</guid>
