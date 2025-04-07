@@ -1,702 +1,1606 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" ?>
 <rss version="2.0">
-<channel>
+  
+
+  <channel>
+    
+
     <title>Hessle Audio on Rinse FM</title>
+    
+
     <link>https://www.rinse.fm/shows/hessle-audio/</link>
+    
+
     <description>Latest episodes from Hessle Audio on Rinse FM.</description>
     
-        <item>
-            <title>Hessle Audio feat. feat. Rozaly</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-24-03-2025-2000/</link>
-            <pubDate>feat. Rozaly</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-24-03-2025-2000/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. feat. Pearson Sound</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-17-03-2025-1800/</link>
-            <pubDate>feat. Pearson Sound</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-17-03-2025-1800/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. feat. Le Motel Recorded live at Horst, curated by Ben UFO</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-03-03-2025-2000/</link>
-            <pubDate>feat. Le Motel Recorded live at Horst, curated by Ben UFO</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-03-03-2025-2000/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. feat. Ben UFO</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-03-02-2025-2000/</link>
-            <pubDate>feat. Ben UFO</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-03-02-2025-2000/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. feat. Pearson Sound</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-20-01-2025-2000/</link>
-            <pubDate>feat. Pearson Sound</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-20-01-2025-2000/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. with Ben UFO B2B GЯEG (Recorded live at Rex, Paris)</title>
-            <link>https://www.rinse.fm/episodes/tim-garcia-06-01-2025-1000-2-2/</link>
-            <pubDate>with Ben UFO B2B GЯEG (Recorded live at Rex, Paris)</pubDate>
-            <guid>https://www.rinse.fm/episodes/tim-garcia-06-01-2025-1000-2-2/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. Live from Club 2 Club (Ben UFO B2B Pangaea B2B Pearson Sound)</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-16-12-2024-1200/</link>
-            <pubDate>Live from Club 2 Club (Ben UFO B2B Pangaea B2B Pearson Sound)</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-16-12-2024-1200/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. with Jasmín</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-19-12-2024-1330/</link>
-            <pubDate>with Jasmín</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-19-12-2024-1330/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. with Significant Other (Recorded Live at Nowadays)</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-19-12-2024-1430/</link>
-            <pubDate>with Significant Other (Recorded Live at Nowadays)</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-19-12-2024-1430/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. with Pangaea</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-19-12-2024-1530/</link>
-            <pubDate>with Pangaea</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-19-12-2024-1530/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. with Josi Devil</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-19-12-2024-1630/</link>
-            <pubDate>with Josi Devil</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-19-12-2024-1630/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. Ben UFO B2B Pearson Sound</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-19-12-2024-1730/</link>
-            <pubDate>Ben UFO B2B Pearson Sound</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-19-12-2024-1730/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. feat. Ben UFO &amp; Hassan Abou Alam</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-02-12-2024-2000/</link>
-            <pubDate>feat. Ben UFO &amp; Hassan Abou Alam</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-02-12-2024-2000/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. feat. Pearson Sound &amp; Peach</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-18-11-2024-2000/</link>
-            <pubDate>feat. Pearson Sound &amp; Peach</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-18-11-2024-2000/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. feat. Ben UFO (Live From 10 Years of Sinai Soundsystem at Trinity Centre)</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-04-11-2024-2000/</link>
-            <pubDate>feat. Ben UFO (Live From 10 Years of Sinai Soundsystem at Trinity Centre)</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-04-11-2024-2000/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. feat. Pearson Sound</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-21-10-2024-2000/</link>
-            <pubDate>feat. Pearson Sound</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-21-10-2024-2000/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. feat. Ben UFO - Recorded at Sustain Release Year 9</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-23-09-2024-2000/</link>
-            <pubDate>feat. Ben UFO - Recorded at Sustain Release Year 9</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-23-09-2024-2000/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. feat. Pearson Sound and Loris</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-16-09-2024-2000/</link>
-            <pubDate>feat. Pearson Sound and Loris</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-16-09-2024-2000/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. with Earth Dog feat. feat Jek and DJ Fix</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-02-09-2024-2000/</link>
-            <pubDate>with Earth Dog feat. feat Jek and DJ Fix</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-02-09-2024-2000/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. feat. Pearson Sound</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-19-08-2024-1900/</link>
-            <pubDate>feat. Pearson Sound</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-19-08-2024-1900/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. feat. Ben UFO with Harba</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-05-08-2024-2000/</link>
-            <pubDate>feat. Ben UFO with Harba</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-05-08-2024-2000/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. feat. Ben UFO (recorded live at Open Ground)</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-22-07-2024-2000/</link>
-            <pubDate>feat. Ben UFO (recorded live at Open Ground)</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-22-07-2024-2000/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. feat. Ben UFO and Ben Kaczor</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-01-07-2024-2000/</link>
-            <pubDate>feat. Ben UFO and Ben Kaczor</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-01-07-2024-2000/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. feat. Pearson Sound</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-17-06-2024-2000/</link>
-            <pubDate>feat. Pearson Sound</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-17-06-2024-2000/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. feat. Ben UFO</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-03-06-2024-2000/</link>
-            <pubDate>feat. Ben UFO</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-03-06-2024-2000/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. feat. Pearson Sound</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-20-05-2024-2000-2/</link>
-            <pubDate>feat. Pearson Sound</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-20-05-2024-2000-2/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. feat. Phuong-Dan &amp; tobha</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-06-05-2024-2000/</link>
-            <pubDate>feat. Phuong-Dan &amp; tobha</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-06-05-2024-2000/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. feat. Ben UFO &amp; Leonce</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-22-04-2024-2000/</link>
-            <pubDate>feat. Ben UFO &amp; Leonce</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-22-04-2024-2000/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. feat. Pearson Sound</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-15-04-2024-2000/</link>
-            <pubDate>feat. Pearson Sound</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-15-04-2024-2000/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. feat. Ben UFO</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-01-04-2024-2000/</link>
-            <pubDate>feat. Ben UFO</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-01-04-2024-2000/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. feat. Pearson Sound</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-18-03-2024-2000/</link>
-            <pubDate>feat. Pearson Sound</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-18-03-2024-2000/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. Ben UFO, RHR and Leod</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-04-03-2024-2000/</link>
-            <pubDate>Ben UFO, RHR and Leod</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-04-03-2024-2000/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. feat. Pearson Sound</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-19-02-2024-2000/</link>
-            <pubDate>feat. Pearson Sound</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-19-02-2024-2000/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. feat. Ben UFO &amp; mad miran</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-05-02-2024-2000/</link>
-            <pubDate>feat. Ben UFO &amp; mad miran</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-05-02-2024-2000/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. feat. Ben UFO</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-22-01-2024-2000/</link>
-            <pubDate>feat. Ben UFO</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-22-01-2024-2000/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. feat. Pearson Sound</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-15-01-2024-2000/</link>
-            <pubDate>feat. Pearson Sound</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-15-01-2024-2000/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. feat. Ben UFO &amp; Dayzero</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-01-01-2024-2000/</link>
-            <pubDate>feat. Ben UFO &amp; Dayzero</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-01-01-2024-2000/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. feat. Pearson Sound</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-20-11-2023-2000/</link>
-            <pubDate>feat. Pearson Sound</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-20-11-2023-2000/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. feat. GЯEG</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-06-11-2023-2000/</link>
-            <pubDate>feat. GЯEG</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-06-11-2023-2000/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. feat. Pearson Sound</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-16-10-2023-2000/</link>
-            <pubDate>feat. Pearson Sound</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-16-10-2023-2000/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. feat. Ben UFO</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-02-10-2023-2000/</link>
-            <pubDate>feat. Ben UFO</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-02-10-2023-2000/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. feat. Nick León</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-18-09-2023-2000/</link>
-            <pubDate>feat. Nick León</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-18-09-2023-2000/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. feat. Ben UFO (recorded live at Nachtiville 2023)</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-04-09-2023-2000/</link>
-            <pubDate>feat. Ben UFO (recorded live at Nachtiville 2023)</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-04-09-2023-2000/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. feat. Ben UFO &amp; Pearson Sound</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-21-08-2023-2000/</link>
-            <pubDate>feat. Ben UFO &amp; Pearson Sound</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-21-08-2023-2000/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. feat. Ben UFO &amp; Pearson Sound</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-21-08-2023-2000-2/</link>
-            <pubDate>feat. Ben UFO &amp; Pearson Sound</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-21-08-2023-2000-2/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. feat. Ben UFO &amp; Ian Kim Judd</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-07-08-2023-2000/</link>
-            <pubDate>feat. Ben UFO &amp; Ian Kim Judd</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-07-08-2023-2000/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. feat. Ben UFO</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-24-07-2023-2000-2/</link>
-            <pubDate>feat. Ben UFO</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-24-07-2023-2000-2/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. feat. Olof Dreijer (recorded live from Pumping Velvet)</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-17-07-2023-2000/</link>
-            <pubDate>feat. Olof Dreijer (recorded live from Pumping Velvet)</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-17-07-2023-2000/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. feat. Ben UFO &amp; livwutang</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-03-07-2023-2000-2/</link>
-            <pubDate>feat. Ben UFO &amp; livwutang</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-03-07-2023-2000-2/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. feat. Pearson Sound</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-19-06-2023-2000/</link>
-            <pubDate>feat. Pearson Sound</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-19-06-2023-2000/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. feat. Ben UFO live from Pitch</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-05-06-2023-2000/</link>
-            <pubDate>feat. Ben UFO live from Pitch</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-05-06-2023-2000/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. with Will Hofbauer</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-22-05-2023-2000-2/</link>
-            <pubDate>with Will Hofbauer</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-22-05-2023-2000-2/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. feat. Pearson Sound</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-15-05-2023-2000/</link>
-            <pubDate>feat. Pearson Sound</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-15-05-2023-2000/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. feat. Ben UFO &amp; Sunju Hargun</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-01-05-2023-2000/</link>
-            <pubDate>feat. Ben UFO &amp; Sunju Hargun</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-01-05-2023-2000/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. feat. Peverelist &amp; Daisy Moon</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-17-04-2023-2000/</link>
-            <pubDate>feat. Peverelist &amp; Daisy Moon</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-17-04-2023-2000/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. feat. Ben UFO</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-03-04-2023-2000/</link>
-            <pubDate>feat. Ben UFO</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-03-04-2023-2000/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. feat. Pearson Sound</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-20-03-2023-2000/</link>
-            <pubDate>feat. Pearson Sound</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-20-03-2023-2000/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. feat. Ben UFO &amp; Deep Creep</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-06-03-2023-2000/</link>
-            <pubDate>feat. Ben UFO &amp; Deep Creep</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-06-03-2023-2000/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. feat. Pearson Sound</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-20-02-2023-2000/</link>
-            <pubDate>feat. Pearson Sound</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-20-02-2023-2000/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. feat. Ben UFO with Klon Dump &amp; 2_button</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-06-02-2023-2000-2/</link>
-            <pubDate>feat. Ben UFO with Klon Dump &amp; 2_button</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-06-02-2023-2000-2/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. feat. Ben UFO</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-23-01-2023-2000/</link>
-            <pubDate>feat. Ben UFO</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-23-01-2023-2000/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. with TraTraTrax Sound Sistema &amp; Pearson Sound</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-16-01-2023-2000/</link>
-            <pubDate>with TraTraTrax Sound Sistema &amp; Pearson Sound</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-16-01-2023-2000/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. feat. Ben UFO &amp; Maria Teriaeva</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-02-01-2023-2000/</link>
-            <pubDate>feat. Ben UFO &amp; Maria Teriaeva</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-02-01-2023-2000/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. feat. Pearson Sound</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-19-12-2022-2000/</link>
-            <pubDate>feat. Pearson Sound</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-19-12-2022-2000/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. with Ben UFO feat. Toumba &amp; Stefan Goldmann</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-05-12-2022-2000/</link>
-            <pubDate>with Ben UFO feat. Toumba &amp; Stefan Goldmann</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-05-12-2022-2000/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. feat. Pearson Sound</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-21-11-2022-2000-2/</link>
-            <pubDate>feat. Pearson Sound</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-21-11-2022-2000-2/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. feat. Ben UFO</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-07-11-2022-2000/</link>
-            <pubDate>feat. Ben UFO</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-07-11-2022-2000/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. feat. Ben UFO live at Hot Mass (Oct &#x27;22)</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-24-10-2022-2000/</link>
-            <pubDate>feat. Ben UFO live at Hot Mass (Oct &#x27;22)</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-24-10-2022-2000/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. feat. Pearson Sound &amp; Shanti Celeste</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-17-10-2022-2000/</link>
-            <pubDate>feat. Pearson Sound &amp; Shanti Celeste</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-17-10-2022-2000/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. feat. Ben UFO</title>
-            <link>https://www.rinse.fm/episodes/03-10-2022-2000/</link>
-            <pubDate>feat. Ben UFO</pubDate>
-            <guid>https://www.rinse.fm/episodes/03-10-2022-2000/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. feat. Pearson Sound</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-19-09-2022-2000/</link>
-            <pubDate>feat. Pearson Sound</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-19-09-2022-2000/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. feat. Ben UFO with Nick Kagame</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-05-09-2022-2000/</link>
-            <pubDate>feat. Ben UFO with Nick Kagame</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-05-09-2022-2000/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. feat. Pearson Sound</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-18-07-2022-2000/</link>
-            <pubDate>feat. Pearson Sound</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-18-07-2022-2000/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. feat. Pearson Sound with INVT</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-20-06-2022-2000/</link>
-            <pubDate>feat. Pearson Sound with INVT</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-20-06-2022-2000/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. feat. Ben UFO</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-06-06-2022-2000/</link>
-            <pubDate>feat. Ben UFO</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-06-06-2022-2000/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. feat. Perko</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-23-05-2022-2000/</link>
-            <pubDate>feat. Perko</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-23-05-2022-2000/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. feat. Pearson Sound</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-16-05-2022-2000/</link>
-            <pubDate>feat. Pearson Sound</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-16-05-2022-2000/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. feat. Ben UFO, Pearson Sound &amp; Pangaea</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-02-05-2022-2000/</link>
-            <pubDate>feat. Ben UFO, Pearson Sound &amp; Pangaea</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-02-05-2022-2000/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. feat. Ben UFO</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-18-04-2022-2000/</link>
-            <pubDate>feat. Ben UFO</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-18-04-2022-2000/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. feat. Ben UFO &amp; Four Tet</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-11-04-2022-2000/</link>
-            <pubDate>feat. Ben UFO &amp; Four Tet</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-11-04-2022-2000/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. feat. Ploy</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-21-03-2022-2000/</link>
-            <pubDate>feat. Ploy</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-21-03-2022-2000/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. feat Ben UFO with Objekt recorded at Club Night Club, NYC</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-07-03-2022-2000/</link>
-            <pubDate>feat Ben UFO with Objekt recorded at Club Night Club, NYC</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-07-03-2022-2000/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. feat. Ben UFO with Tim Reaper &amp; Dwarde</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-07-12-2020-2300/</link>
-            <pubDate>feat. Ben UFO with Tim Reaper &amp; Dwarde</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-07-12-2020-2300/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. Ben UFO (Live from Unsound Festival)</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-24-12-2018-1418/</link>
-            <pubDate>Ben UFO (Live from Unsound Festival)</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-24-12-2018-1418/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. feat. DJ Stingray recorded live at XOYO</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-22-10-2018-2100/</link>
-            <pubDate>feat. DJ Stingray recorded live at XOYO</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-22-10-2018-2100/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. with Ben UFO &amp; Overmono</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-01-03-2018-2300/</link>
-            <pubDate>with Ben UFO &amp; Overmono</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-01-03-2018-2300/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. with Ben UFO &amp; Ciel</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-08-02-2018-2300/</link>
-            <pubDate>with Ben UFO &amp; Ciel</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-08-02-2018-2300/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. with Ben UFO (Live Recording from Lost Village 2017)</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-04-01-2018-2300/</link>
-            <pubDate>with Ben UFO (Live Recording from Lost Village 2017)</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-04-01-2018-2300/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. with Ben UFO, Martyn &amp; Andy Mac</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-02-08-2017-2300/</link>
-            <pubDate>with Ben UFO, Martyn &amp; Andy Mac</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-02-08-2017-2300/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. with Call Super</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-14-05-2015-2300/</link>
-            <pubDate>with Call Super</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-14-05-2015-2300/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. with Ben UFO &amp; Hieroglyphic Being</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-23-06-2016-2300/</link>
-            <pubDate>with Ben UFO &amp; Hieroglyphic Being</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-23-06-2016-2300/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. with Ben UFO &amp; Job Jobse</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-24-03-2016-2300/</link>
-            <pubDate>with Ben UFO &amp; Job Jobse</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-24-03-2016-2300/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. with Pariah</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-14-01-2016-2300/</link>
-            <pubDate>with Pariah</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-14-01-2016-2300/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. Xmas Special feat. Ben UFO, Pearson Sound, Pangaea, Four Tet, Caribou &amp; Joy Orbison</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-24-12-2015-2300/</link>
-            <pubDate>Xmas Special feat. Ben UFO, Pearson Sound, Pangaea, Four Tet, Caribou &amp; Joy Orbison</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-24-12-2015-2300/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. with Pearson Sound &amp; Josey Rebelle</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-09-07-2015-2300/</link>
-            <pubDate>with Pearson Sound &amp; Josey Rebelle</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-09-07-2015-2300/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. with Call Super</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-14-05-2015-2300-2/</link>
-            <pubDate>with Call Super</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-14-05-2015-2300-2/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. with Will Bankhead &amp; Low Jack</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-16-04-2015-2300/</link>
-            <pubDate>with Will Bankhead &amp; Low Jack</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-16-04-2015-2300/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. with Jane Fitz</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-12-02-2015-2300/</link>
-            <pubDate>with Jane Fitz</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-12-02-2015-2300/</guid>
-        </item>
-        
-        <item>
-            <title>Hessle Audio feat. with Ben UFO B2B Paul Woolford</title>
-            <link>https://www.rinse.fm/episodes/hessle-audio-15-12-2011-2300/</link>
-            <pubDate>with Ben UFO B2B Paul Woolford</pubDate>
-            <guid>https://www.rinse.fm/episodes/hessle-audio-15-12-2011-2300/</guid>
-        </item>
-        
-</channel>
+
+    <item>
+      
+
+      <title>Hessle Audio feat. feat. Rozaly</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-24-03-2025-2000/</link>
+      
+
+      <pubDate>feat. Rozaly</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-24-03-2025-2000/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. feat. Pearson Sound</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-17-03-2025-1800/</link>
+      
+
+      <pubDate>feat. Pearson Sound</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-17-03-2025-1800/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. feat. Le Motel Recorded live at Horst, curated by Ben UFO</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-03-03-2025-2000/</link>
+      
+
+      <pubDate>feat. Le Motel Recorded live at Horst, curated by Ben UFO</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-03-03-2025-2000/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. feat. Ben UFO</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-03-02-2025-2000/</link>
+      
+
+      <pubDate>feat. Ben UFO</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-03-02-2025-2000/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. feat. Pearson Sound</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-20-01-2025-2000/</link>
+      
+
+      <pubDate>feat. Pearson Sound</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-20-01-2025-2000/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. with Ben UFO B2B GЯEG (Recorded live at Rex, Paris)</title>
+      
+
+      <link>https://www.rinse.fm/episodes/tim-garcia-06-01-2025-1000-2-2/</link>
+      
+
+      <pubDate>with Ben UFO B2B GЯEG (Recorded live at Rex, Paris)</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/tim-garcia-06-01-2025-1000-2-2/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. Live from Club 2 Club (Ben UFO B2B Pangaea B2B Pearson Sound)</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-16-12-2024-1200/</link>
+      
+
+      <pubDate>Live from Club 2 Club (Ben UFO B2B Pangaea B2B Pearson Sound)</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-16-12-2024-1200/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. with Jasmín</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-19-12-2024-1330/</link>
+      
+
+      <pubDate>with Jasmín</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-19-12-2024-1330/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. with Significant Other (Recorded Live at Nowadays)</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-19-12-2024-1430/</link>
+      
+
+      <pubDate>with Significant Other (Recorded Live at Nowadays)</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-19-12-2024-1430/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. with Pangaea</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-19-12-2024-1530/</link>
+      
+
+      <pubDate>with Pangaea</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-19-12-2024-1530/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. with Josi Devil</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-19-12-2024-1630/</link>
+      
+
+      <pubDate>with Josi Devil</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-19-12-2024-1630/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. Ben UFO B2B Pearson Sound</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-19-12-2024-1730/</link>
+      
+
+      <pubDate>Ben UFO B2B Pearson Sound</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-19-12-2024-1730/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. feat. Ben UFO &amp; Hassan Abou Alam</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-02-12-2024-2000/</link>
+      
+
+      <pubDate>feat. Ben UFO &amp; Hassan Abou Alam</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-02-12-2024-2000/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. feat. Pearson Sound &amp; Peach</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-18-11-2024-2000/</link>
+      
+
+      <pubDate>feat. Pearson Sound &amp; Peach</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-18-11-2024-2000/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. feat. Ben UFO (Live From 10 Years of Sinai Soundsystem at Trinity Centre)</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-04-11-2024-2000/</link>
+      
+
+      <pubDate>feat. Ben UFO (Live From 10 Years of Sinai Soundsystem at Trinity Centre)</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-04-11-2024-2000/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. feat. Pearson Sound</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-21-10-2024-2000/</link>
+      
+
+      <pubDate>feat. Pearson Sound</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-21-10-2024-2000/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. feat. Ben UFO - Recorded at Sustain Release Year 9</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-23-09-2024-2000/</link>
+      
+
+      <pubDate>feat. Ben UFO - Recorded at Sustain Release Year 9</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-23-09-2024-2000/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. feat. Pearson Sound and Loris</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-16-09-2024-2000/</link>
+      
+
+      <pubDate>feat. Pearson Sound and Loris</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-16-09-2024-2000/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. with Earth Dog feat. feat Jek and DJ Fix</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-02-09-2024-2000/</link>
+      
+
+      <pubDate>with Earth Dog feat. feat Jek and DJ Fix</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-02-09-2024-2000/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. feat. Pearson Sound</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-19-08-2024-1900/</link>
+      
+
+      <pubDate>feat. Pearson Sound</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-19-08-2024-1900/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. feat. Ben UFO with Harba</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-05-08-2024-2000/</link>
+      
+
+      <pubDate>feat. Ben UFO with Harba</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-05-08-2024-2000/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. feat. Ben UFO (recorded live at Open Ground)</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-22-07-2024-2000/</link>
+      
+
+      <pubDate>feat. Ben UFO (recorded live at Open Ground)</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-22-07-2024-2000/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. feat. Ben UFO and Ben Kaczor</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-01-07-2024-2000/</link>
+      
+
+      <pubDate>feat. Ben UFO and Ben Kaczor</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-01-07-2024-2000/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. feat. Pearson Sound</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-17-06-2024-2000/</link>
+      
+
+      <pubDate>feat. Pearson Sound</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-17-06-2024-2000/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. feat. Ben UFO</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-03-06-2024-2000/</link>
+      
+
+      <pubDate>feat. Ben UFO</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-03-06-2024-2000/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. feat. Pearson Sound</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-20-05-2024-2000-2/</link>
+      
+
+      <pubDate>feat. Pearson Sound</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-20-05-2024-2000-2/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. feat. Phuong-Dan &amp; tobha</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-06-05-2024-2000/</link>
+      
+
+      <pubDate>feat. Phuong-Dan &amp; tobha</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-06-05-2024-2000/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. feat. Ben UFO &amp; Leonce</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-22-04-2024-2000/</link>
+      
+
+      <pubDate>feat. Ben UFO &amp; Leonce</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-22-04-2024-2000/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. feat. Pearson Sound</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-15-04-2024-2000/</link>
+      
+
+      <pubDate>feat. Pearson Sound</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-15-04-2024-2000/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. feat. Ben UFO</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-01-04-2024-2000/</link>
+      
+
+      <pubDate>feat. Ben UFO</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-01-04-2024-2000/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. feat. Pearson Sound</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-18-03-2024-2000/</link>
+      
+
+      <pubDate>feat. Pearson Sound</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-18-03-2024-2000/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. Ben UFO, RHR and Leod</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-04-03-2024-2000/</link>
+      
+
+      <pubDate>Ben UFO, RHR and Leod</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-04-03-2024-2000/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. feat. Pearson Sound</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-19-02-2024-2000/</link>
+      
+
+      <pubDate>feat. Pearson Sound</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-19-02-2024-2000/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. feat. Ben UFO &amp; mad miran</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-05-02-2024-2000/</link>
+      
+
+      <pubDate>feat. Ben UFO &amp; mad miran</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-05-02-2024-2000/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. feat. Ben UFO</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-22-01-2024-2000/</link>
+      
+
+      <pubDate>feat. Ben UFO</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-22-01-2024-2000/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. feat. Pearson Sound</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-15-01-2024-2000/</link>
+      
+
+      <pubDate>feat. Pearson Sound</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-15-01-2024-2000/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. feat. Ben UFO &amp; Dayzero</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-01-01-2024-2000/</link>
+      
+
+      <pubDate>feat. Ben UFO &amp; Dayzero</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-01-01-2024-2000/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. feat. Pearson Sound</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-20-11-2023-2000/</link>
+      
+
+      <pubDate>feat. Pearson Sound</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-20-11-2023-2000/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. feat. GЯEG</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-06-11-2023-2000/</link>
+      
+
+      <pubDate>feat. GЯEG</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-06-11-2023-2000/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. feat. Pearson Sound</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-16-10-2023-2000/</link>
+      
+
+      <pubDate>feat. Pearson Sound</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-16-10-2023-2000/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. feat. Ben UFO</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-02-10-2023-2000/</link>
+      
+
+      <pubDate>feat. Ben UFO</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-02-10-2023-2000/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. feat. Nick León</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-18-09-2023-2000/</link>
+      
+
+      <pubDate>feat. Nick León</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-18-09-2023-2000/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. feat. Ben UFO (recorded live at Nachtiville 2023)</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-04-09-2023-2000/</link>
+      
+
+      <pubDate>feat. Ben UFO (recorded live at Nachtiville 2023)</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-04-09-2023-2000/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. feat. Ben UFO &amp; Pearson Sound</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-21-08-2023-2000/</link>
+      
+
+      <pubDate>feat. Ben UFO &amp; Pearson Sound</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-21-08-2023-2000/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. feat. Ben UFO &amp; Pearson Sound</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-21-08-2023-2000-2/</link>
+      
+
+      <pubDate>feat. Ben UFO &amp; Pearson Sound</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-21-08-2023-2000-2/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. feat. Ben UFO &amp; Ian Kim Judd</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-07-08-2023-2000/</link>
+      
+
+      <pubDate>feat. Ben UFO &amp; Ian Kim Judd</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-07-08-2023-2000/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. feat. Ben UFO</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-24-07-2023-2000-2/</link>
+      
+
+      <pubDate>feat. Ben UFO</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-24-07-2023-2000-2/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. feat. Olof Dreijer (recorded live from Pumping Velvet)</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-17-07-2023-2000/</link>
+      
+
+      <pubDate>feat. Olof Dreijer (recorded live from Pumping Velvet)</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-17-07-2023-2000/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. feat. Ben UFO &amp; livwutang</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-03-07-2023-2000-2/</link>
+      
+
+      <pubDate>feat. Ben UFO &amp; livwutang</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-03-07-2023-2000-2/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. feat. Pearson Sound</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-19-06-2023-2000/</link>
+      
+
+      <pubDate>feat. Pearson Sound</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-19-06-2023-2000/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. feat. Ben UFO live from Pitch</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-05-06-2023-2000/</link>
+      
+
+      <pubDate>feat. Ben UFO live from Pitch</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-05-06-2023-2000/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. with Will Hofbauer</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-22-05-2023-2000-2/</link>
+      
+
+      <pubDate>with Will Hofbauer</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-22-05-2023-2000-2/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. feat. Pearson Sound</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-15-05-2023-2000/</link>
+      
+
+      <pubDate>feat. Pearson Sound</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-15-05-2023-2000/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. feat. Ben UFO &amp; Sunju Hargun</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-01-05-2023-2000/</link>
+      
+
+      <pubDate>feat. Ben UFO &amp; Sunju Hargun</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-01-05-2023-2000/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. feat. Peverelist &amp; Daisy Moon</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-17-04-2023-2000/</link>
+      
+
+      <pubDate>feat. Peverelist &amp; Daisy Moon</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-17-04-2023-2000/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. feat. Ben UFO</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-03-04-2023-2000/</link>
+      
+
+      <pubDate>feat. Ben UFO</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-03-04-2023-2000/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. feat. Pearson Sound</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-20-03-2023-2000/</link>
+      
+
+      <pubDate>feat. Pearson Sound</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-20-03-2023-2000/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. feat. Ben UFO &amp; Deep Creep</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-06-03-2023-2000/</link>
+      
+
+      <pubDate>feat. Ben UFO &amp; Deep Creep</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-06-03-2023-2000/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. feat. Pearson Sound</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-20-02-2023-2000/</link>
+      
+
+      <pubDate>feat. Pearson Sound</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-20-02-2023-2000/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. feat. Ben UFO with Klon Dump &amp; 2_button</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-06-02-2023-2000-2/</link>
+      
+
+      <pubDate>feat. Ben UFO with Klon Dump &amp; 2_button</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-06-02-2023-2000-2/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. feat. Ben UFO</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-23-01-2023-2000/</link>
+      
+
+      <pubDate>feat. Ben UFO</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-23-01-2023-2000/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. with TraTraTrax Sound Sistema &amp; Pearson Sound</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-16-01-2023-2000/</link>
+      
+
+      <pubDate>with TraTraTrax Sound Sistema &amp; Pearson Sound</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-16-01-2023-2000/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. feat. Ben UFO &amp; Maria Teriaeva</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-02-01-2023-2000/</link>
+      
+
+      <pubDate>feat. Ben UFO &amp; Maria Teriaeva</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-02-01-2023-2000/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. feat. Pearson Sound</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-19-12-2022-2000/</link>
+      
+
+      <pubDate>feat. Pearson Sound</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-19-12-2022-2000/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. with Ben UFO feat. Toumba &amp; Stefan Goldmann</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-05-12-2022-2000/</link>
+      
+
+      <pubDate>with Ben UFO feat. Toumba &amp; Stefan Goldmann</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-05-12-2022-2000/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. feat. Pearson Sound</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-21-11-2022-2000-2/</link>
+      
+
+      <pubDate>feat. Pearson Sound</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-21-11-2022-2000-2/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. feat. Ben UFO</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-07-11-2022-2000/</link>
+      
+
+      <pubDate>feat. Ben UFO</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-07-11-2022-2000/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. feat. Ben UFO live at Hot Mass (Oct '22)</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-24-10-2022-2000/</link>
+      
+
+      <pubDate>feat. Ben UFO live at Hot Mass (Oct '22)</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-24-10-2022-2000/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. feat. Pearson Sound &amp; Shanti Celeste</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-17-10-2022-2000/</link>
+      
+
+      <pubDate>feat. Pearson Sound &amp; Shanti Celeste</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-17-10-2022-2000/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. feat. Ben UFO</title>
+      
+
+      <link>https://www.rinse.fm/episodes/03-10-2022-2000/</link>
+      
+
+      <pubDate>feat. Ben UFO</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/03-10-2022-2000/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. feat. Pearson Sound</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-19-09-2022-2000/</link>
+      
+
+      <pubDate>feat. Pearson Sound</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-19-09-2022-2000/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. feat. Ben UFO with Nick Kagame</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-05-09-2022-2000/</link>
+      
+
+      <pubDate>feat. Ben UFO with Nick Kagame</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-05-09-2022-2000/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. feat. Pearson Sound</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-18-07-2022-2000/</link>
+      
+
+      <pubDate>feat. Pearson Sound</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-18-07-2022-2000/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. feat. Pearson Sound with INVT</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-20-06-2022-2000/</link>
+      
+
+      <pubDate>feat. Pearson Sound with INVT</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-20-06-2022-2000/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. feat. Ben UFO</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-06-06-2022-2000/</link>
+      
+
+      <pubDate>feat. Ben UFO</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-06-06-2022-2000/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. feat. Perko</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-23-05-2022-2000/</link>
+      
+
+      <pubDate>feat. Perko</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-23-05-2022-2000/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. feat. Pearson Sound</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-16-05-2022-2000/</link>
+      
+
+      <pubDate>feat. Pearson Sound</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-16-05-2022-2000/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. feat. Ben UFO, Pearson Sound &amp; Pangaea</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-02-05-2022-2000/</link>
+      
+
+      <pubDate>feat. Ben UFO, Pearson Sound &amp; Pangaea</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-02-05-2022-2000/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. feat. Ben UFO</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-18-04-2022-2000/</link>
+      
+
+      <pubDate>feat. Ben UFO</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-18-04-2022-2000/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. feat. Ben UFO &amp; Four Tet</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-11-04-2022-2000/</link>
+      
+
+      <pubDate>feat. Ben UFO &amp; Four Tet</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-11-04-2022-2000/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. feat. Ploy</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-21-03-2022-2000/</link>
+      
+
+      <pubDate>feat. Ploy</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-21-03-2022-2000/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. feat Ben UFO with Objekt recorded at Club Night Club, NYC</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-07-03-2022-2000/</link>
+      
+
+      <pubDate>feat Ben UFO with Objekt recorded at Club Night Club, NYC</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-07-03-2022-2000/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. feat. Ben UFO with Tim Reaper &amp; Dwarde</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-07-12-2020-2300/</link>
+      
+
+      <pubDate>feat. Ben UFO with Tim Reaper &amp; Dwarde</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-07-12-2020-2300/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. Ben UFO (Live from Unsound Festival)</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-24-12-2018-1418/</link>
+      
+
+      <pubDate>Ben UFO (Live from Unsound Festival)</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-24-12-2018-1418/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. feat. DJ Stingray recorded live at XOYO</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-22-10-2018-2100/</link>
+      
+
+      <pubDate>feat. DJ Stingray recorded live at XOYO</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-22-10-2018-2100/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. with Ben UFO &amp; Overmono</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-01-03-2018-2300/</link>
+      
+
+      <pubDate>with Ben UFO &amp; Overmono</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-01-03-2018-2300/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. with Ben UFO &amp; Ciel</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-08-02-2018-2300/</link>
+      
+
+      <pubDate>with Ben UFO &amp; Ciel</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-08-02-2018-2300/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. with Ben UFO (Live Recording from Lost Village 2017)</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-04-01-2018-2300/</link>
+      
+
+      <pubDate>with Ben UFO (Live Recording from Lost Village 2017)</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-04-01-2018-2300/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. with Ben UFO, Martyn &amp; Andy Mac</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-02-08-2017-2300/</link>
+      
+
+      <pubDate>with Ben UFO, Martyn &amp; Andy Mac</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-02-08-2017-2300/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. with Call Super</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-14-05-2015-2300/</link>
+      
+
+      <pubDate>with Call Super</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-14-05-2015-2300/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. with Ben UFO &amp; Hieroglyphic Being</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-23-06-2016-2300/</link>
+      
+
+      <pubDate>with Ben UFO &amp; Hieroglyphic Being</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-23-06-2016-2300/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. with Ben UFO &amp; Job Jobse</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-24-03-2016-2300/</link>
+      
+
+      <pubDate>with Ben UFO &amp; Job Jobse</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-24-03-2016-2300/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. with Pariah</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-14-01-2016-2300/</link>
+      
+
+      <pubDate>with Pariah</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-14-01-2016-2300/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. Xmas Special feat. Ben UFO, Pearson Sound, Pangaea, Four Tet, Caribou &amp; Joy Orbison</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-24-12-2015-2300/</link>
+      
+
+      <pubDate>Xmas Special feat. Ben UFO, Pearson Sound, Pangaea, Four Tet, Caribou &amp; Joy Orbison</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-24-12-2015-2300/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. with Pearson Sound &amp; Josey Rebelle</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-09-07-2015-2300/</link>
+      
+
+      <pubDate>with Pearson Sound &amp; Josey Rebelle</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-09-07-2015-2300/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. with Call Super</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-14-05-2015-2300-2/</link>
+      
+
+      <pubDate>with Call Super</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-14-05-2015-2300-2/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. with Will Bankhead &amp; Low Jack</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-16-04-2015-2300/</link>
+      
+
+      <pubDate>with Will Bankhead &amp; Low Jack</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-16-04-2015-2300/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. with Jane Fitz</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-12-02-2015-2300/</link>
+      
+
+      <pubDate>with Jane Fitz</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-12-02-2015-2300/</guid>
+      
+
+    </item>
+    <item>
+      
+
+      <title>Hessle Audio feat. with Ben UFO B2B Paul Woolford</title>
+      
+
+      <link>https://www.rinse.fm/episodes/hessle-audio-15-12-2011-2300/</link>
+      
+
+      <pubDate>with Ben UFO B2B Paul Woolford</pubDate>
+      
+
+      <guid>https://www.rinse.fm/episodes/hessle-audio-15-12-2011-2300/</guid>
+      
+
+    </item>
+    
+
+  </channel>
+  
+
 </rss>
